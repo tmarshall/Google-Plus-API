@@ -10,5 +10,9 @@
 	"repository": {
     	"type": "git",
 		"url": "git://github.com/tmarshall/Google-Plus-API.git"
-	}
+	},
+	"licenses": [{
+        "type": "MIT",
+    	"url": "http://github.com/tmarshall/Google-Plus-API/raw/master/LICENSE"
+    }]
 }
