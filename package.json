@@ -1,18 +1,18 @@
 {
-	"author": "Timothy J. Marshall <timothyjmarshall@gmail.com> (http://timothyjmarshall.com)",
-	"name": "Google_Plus_API",
-	"description": "Employs the official Google+ API",
-	"version": "0.0.1",
-	"main": "google-plus-api",
-	"engines": {
-		"node": ">=0.4.8"
-	},
-	"repository": {
-    	"type": "git",
-		"url": "git://github.com/tmarshall/Google-Plus-API.git"
-	},
-	"licenses": [{
+    "author": "Timothy J. Marshall <timothyjmarshall@gmail.com> (http://timothyjmarshall.com)",
+    "name": "Google_Plus_API",
+    "description": "Employs the official Google+ API",
+    "version": "0.0.1",
+    "main": "google-plus-api",
+    "engines": {
+        "node": ">=0.4.8"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/tmarshall/Google-Plus-API.git"
+    },
+    "licenses": [{
         "type": "MIT",
-    	"url": "http://github.com/tmarshall/Google-Plus-API/raw/master/LICENSE"
+        "url": "http://github.com/tmarshall/Google-Plus-API/raw/master/LICENSE"
     }]
 }
