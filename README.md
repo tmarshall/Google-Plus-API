@@ -5,13 +5,17 @@ Google+ API 0.0.1
 
 This is a Node module for making requests using the official Google+ API (v1).
 
-***Important!**** This is an early version. It currently has no support (but should later on) for OAuth. Also, it assumes that when you request a user's activities they are of the public collection.
+***Important!*** This is an early version. It currently has no support (but should later on) for OAuth. Also, it assumes that when you request a user's activities they are of the public collection.
 
 See the Google+ API docs for more on available parameter options. https://developers.google.com/+/api/
 
 ## Dependencies
 
 This module employs https, which come stock in Node. So you shouldn't have to npm anything.
+
+## Installation
+
+The easiest way to install SimplyDB is to use [npm](http://npmjs.org/) by running `npm install Google_Plus_API` in your terminal.
 
 ## Creating a new instance
 
