@@ -15,7 +15,7 @@ This module employs https, which come stock in Node. So you shouldn't have to np
 
 ## Installation
 
-The easiest way to install SimplyDB is to use [npm](http://npmjs.org/) by running `npm install Google_Plus_API` in your terminal.
+The easiest way to install this module is to use [npm](http://npmjs.org/). Execute `npm install Google_Plus_API` in your terminal.
 
 ## Creating a new instance
 
